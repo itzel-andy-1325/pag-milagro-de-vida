@@ -1,0 +1,32 @@
+header{
+    background: url("img/Texturas_0963.jpg");
+     border:none;
+}
+header h1{
+    margin-left: 200px;
+    text-align: center;
+    font-family: "Forte";
+   
+    
+    font-size: 2.5em;
+    text-shadow: #DDD 0px 2px 1px,
+        #DDD 2px 4px 2px,
+        #DDD 4px 6px 3px,
+        #DDD 6px 2px 4px;
+    -webkit-transition: all 1s ease-in-out;
+    border:none;
+    
+}
+header h1:hover{
+    color: black;
+    font-size: 2.2em;
+    text-shadow: #DDD 0px 2px 1px,
+        #DDD 2px 4px 2px,
+        #DDD 4px 6px 3px,
+        #DDD 6px 2px 4px;
+    -webkit-transform: rotate(7deg) rotateX(30deg) skewX(-5deg);
+    border:none;
+}
+iframe{
+    border:0;
+}
